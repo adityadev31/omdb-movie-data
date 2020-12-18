@@ -1,4 +1,4 @@
-*Fetching OMDB movie data using API
+# Fetching OMDB movie data using API
 
 <h3>Steps to follow</h3>
 <hr>
