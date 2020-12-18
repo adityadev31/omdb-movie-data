@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 
 const outputs = [];
-const API_KEY = ["bf4692e4","a0010e61","e4e5dad9","3cbca18a"];
+const API_KEY = ["enterAPI","enterAPI","enterAPI","enterAPI"];
 
 const getMovieId = (ID) => ID.toString().padStart(8, "0");  // size = 8
 
